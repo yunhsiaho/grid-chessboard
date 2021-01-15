@@ -1,0 +1,340 @@
+.background{
+    display:grid;
+    width: 500px;
+    height: 500px;
+    grid-template-columns:repeat(8,12.5%);
+    grid-template-rows:repeat(8,12.5%);
+    border:15px solid rgb(61, 61, 61);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 11%;
+    margin-bottom: 11%;
+    }
+    /* 1st line*/
+    .div1{
+        background-color: white ;
+        grid-column: 1;
+        grid-row:1;
+    } 
+    .div2{
+        background-color:gray;
+        grid-column: 2;
+        grid-row:1;
+    } 
+    .div3{
+        background-color: white ;
+        grid-column: 3;
+        grid-row:1;
+    } 
+    .div4{
+        background-color:gray;
+        grid-column: 4;
+        grid-row:1;
+    } 
+    .div5{
+        background-color: white ;
+        grid-column: 5;
+        grid-row:1;
+    } 
+    .div6{
+        background-color: gray; 
+        grid-column: 6;
+        grid-row:1;
+    } 
+    .div7{
+        background-color: white ;
+        grid-column: 7;
+        grid-row:1;
+    } 
+    .div8{
+        background-color: gray;
+        grid-column: 8;
+        grid-row:1;
+    } 
+    /*2nd line*/
+    .div9{
+        background-color: gray;
+        grid-column: 1;
+        grid-row:2;
+    } 
+    .div10{
+        background-color: white ;
+        grid-column: 2;
+        grid-row:2;
+    } 
+    .div11{
+        background-color:gray;
+        grid-column: 3;
+        grid-row:2;
+    } 
+    .div12{
+        background-color: white ;
+        grid-column: 4;
+        grid-row:2;
+    } 
+    .div13{
+        background-color:gray;
+        grid-column: 5;
+        grid-row:2;
+    } 
+    .div14{
+        background-color: white ;
+        grid-column: 6;
+        grid-row:2;
+    } 
+    .div15{
+        background-color: gray; 
+        grid-column: 7;
+        grid-row:2;
+    } 
+    .div16{
+        background-color: white ;
+        grid-column: 8;
+        grid-row:2;
+    } 
+    /*3rd line*/
+    .div17{
+        background-color: white;
+        grid-column: 1;
+        grid-row:3;
+    } 
+    .div18{
+        background-color: gray;
+        grid-column: 2;
+        grid-row:3;
+    } 
+    .div19{
+        background-color:white;
+        grid-column: 3;
+        grid-row:3;
+    } 
+    .div20{
+        background-color: gray ;
+        grid-column: 4;
+        grid-row:3;
+    } 
+    .div21{
+        background-color:white;
+        grid-column: 5;
+        grid-row:3;
+    } 
+    .div22{
+        background-color: gray;
+        grid-column: 6;
+        grid-row:3;
+    } 
+    .div23{
+        background-color: white; 
+        grid-column: 7;
+        grid-row:3;
+    } 
+    .div24{
+        background-color: gray ;
+        grid-column: 8;
+        grid-row:3;
+    } 
+    /*4th line*/
+    .div25{
+        background-color: gray;
+        grid-column: 1;
+        grid-row:4;
+    } 
+    .div26{
+        background-color: white ;
+        grid-column: 2;
+        grid-row:4;
+    } 
+    .div27{
+        background-color:gray;
+        grid-column: 3;
+        grid-row:4;
+    } 
+    .div28{
+        background-color: white ;
+        grid-column: 4;
+        grid-row:4;
+    } 
+    .div29{
+        background-color:gray;
+        grid-column: 5;
+        grid-row:4;
+    } 
+    .div30{
+        background-color: white ;
+        grid-column: 6;
+        grid-row:4;
+    } 
+    .div31{
+        background-color: gray; 
+        grid-column: 7;
+        grid-row:4;
+    } 
+    .div32{
+        background-color: white ;
+        grid-column: 8;
+        grid-row:4;
+    } 
+     /* 5th line*/
+     .div33{
+        background-color: white ;
+        grid-column: 1;
+        grid-row:5;
+    } 
+    .div34{
+        background-color:gray;
+        grid-column: 2;
+        grid-row:5;
+    } 
+    .div35{
+        background-color: white ;
+        grid-column: 3;
+        grid-row:5;
+    } 
+    .div36{
+        background-color:gray;
+        grid-column: 4;
+        grid-row:5;
+    } 
+    .div37{
+        background-color: white ;
+        grid-column: 5;
+        grid-row:5;
+    } 
+    .div38{
+        background-color: gray; 
+        grid-column: 6;
+        grid-row:5;
+    } 
+    .div39{
+        background-color: white ;
+        grid-column: 7;
+        grid-row:5;
+    } 
+    .div40{
+        background-color: gray;
+        grid-column: 8;
+        grid-row:5;
+    } 
+    /*6nd line*/
+    .div41{
+        background-color: gray;
+        grid-column: 1;
+        grid-row:6;
+    } 
+    .div42{
+        background-color: white ;
+        grid-column: 2;
+        grid-row:6;
+    } 
+    .div43{
+        background-color:gray;
+        grid-column: 3;
+        grid-row:6;
+    } 
+    .div44{
+        background-color: white ;
+        grid-column: 4;
+        grid-row:6;
+    } 
+    .div45{
+        background-color:gray;
+        grid-column: 5;
+        grid-row:6;
+    }
+    .div46{
+        background-color: white ;
+        grid-column: 6;
+        grid-row:6;
+    } 
+    .div47{
+        background-color: gray; 
+        grid-column: 7;
+        grid-row:6;
+    } 
+    .div48{
+        background-color: white ;
+        grid-column: 8;
+        grid-row:6;
+    } 
+    /*7th line*/
+    .div49{
+        background-color: white;
+        grid-column: 1;
+        grid-row:7;
+    } 
+    .div50{
+        background-color: gray ;
+        grid-column: 2;
+        grid-row:7;
+    } 
+    .div51{
+        background-color:white;
+        rid-column: 3;
+        grid-row:7;
+    } 
+    .div52{
+        background-color: gray;
+        grid-column: 4;
+        grid-row:7;
+    } 
+    .div53{
+        background-color: white ;
+        grid-column: 5;
+        grid-row:7;
+    } 
+    .div54{
+        background-color: gray;
+        grid-column: 6;
+        grid-row:7;
+    } 
+    .div55{
+        background-color: white; 
+        grid-column: 7;
+        grid-row:7;
+    } 
+    .div56{
+        background-color: gray;
+        grid-column: 8;
+        grid-row:7;
+    } 
+    /*8th line*/
+    .div57{
+        background-color: gray;
+        grid-column: 1;
+        grid-row:8;
+    } 
+    .div58{
+        background-color: white ;
+        grid-column: 2;
+        grid-row:8;
+    } 
+    .div59{
+        background-color:gray;
+        grid-column: 3;
+        grid-row:8;
+    } 
+    .div60{
+        background-color: white ;
+        grid-column: 4;
+        grid-row:8;
+    } 
+    .div61{
+        background-color:gray;
+        grid-column: 5;
+        grid-row:8;
+    } 
+    .div62{
+        background-color: white ;
+        grid-column: 6;
+        ggrid-row:8;
+    } 
+    .div63{
+        background-color: gray; 
+        grid-column: 7;
+        ggrid-row:8;
+    } 
+    .div64{
+        background-color: white ;
+        grid-column: 8;
+        grid-row:8;
+    } 
